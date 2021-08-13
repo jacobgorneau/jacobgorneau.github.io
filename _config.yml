@@ -63,7 +63,7 @@ author:
   bio    : "I'm a master's student at California Academy of Sciences passionate about arthropod diversity, evolution, and outreach."
   links:
     - label: "iNaturalist"
-      icon: "ai ai-inaturalist"
+      icon: "assets/images/inaturalist.svg"
       url: "https://www.inaturalist.org/people/jacobgorneau"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
