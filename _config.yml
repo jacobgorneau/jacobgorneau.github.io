@@ -7,7 +7,7 @@
 #
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-
+<link rel="stylesheet" href="academicons.min.css"/>
 # Site settings
 # These are used to personalize your new site. If you look in the HTML files,
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
@@ -63,7 +63,7 @@ author:
   bio    : "I'm a master's student at California Academy of Sciences passionate about arthropod diversity, evolution, and outreach."
   links:
     - label: "iNaturalist"
-      icon: "fas fa-fw fa-link"
+      icon: "ai ai-inaturalist"
       url: "https://www.inaturalist.org/people/jacobgorneau"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
