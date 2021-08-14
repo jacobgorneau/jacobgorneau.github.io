@@ -1,15 +1,9 @@
 main:
   - title: "About"
-    url: /about/
+    url: /
   - title: "Research"
     url: /research/
   - title: "Projects"
     url: /projects/
   - title: "Contact"
     url: /contact/
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
