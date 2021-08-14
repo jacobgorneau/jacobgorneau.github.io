@@ -18,7 +18,7 @@ Hey! My name is Jacob Gorneau and I am a masterâ€™s student in Lauren Espositoâ€
       accessToken: '${{secret.INSTA_TOKEN}}'
     });
     feed.run();
-</script>
+
 
 var feed = new Instafeed({
             get: 'user',
@@ -27,6 +27,6 @@ var feed = new Instafeed({
             accessToken: '{{secret.INSTA_TOKEN}}'
         });
         feed.run();
-
+</script>
 
 
