@@ -13,9 +13,7 @@ title: "Projects"
     <p>With my advisor Dr. Lauren Esposito, I recently consulted on a video about the sensory structures present on scorpions for KQED. The video highlights that while scorpions have earned a reputation as fierce predators, this is all due to the incredible and delicate sensory structures they have.&nbsp;</p>
     <p><iframe src="https://www.youtube.com/embed/3jtm9BdnE1U?&wmode=opaque&rel=0" allowfullscreen="" width="640" height="360" frameborder="0"></iframe></p>
     <p><br></p>
-    <p><strong>Cornell University Insect Collection (CUIC) Curation</strong></p>
-    <p>From August 2016 until June 2020, I was the undergraduate lead for an initiative funded by a grant through the National Science Foundation to curate the macrolepidoptera holdings and database specimens dissected by John G. Franclemont. In my time at the CUIC, we curated over 6000 species and two families (Geometridae and Notodontidae). The curation workflow I set in place is still ongoing as the rest of the macrolepidoptera are in the process of being curated.</p>
-    <p><strong>Cornell University Insect Collection (CUIC) Curation</strong></p>
+ <p><strong>Cornell University Insect Collection (CUIC) Curation</strong></p>
     <p></p>
     <p>From August 2016 until June 2020, I was the undergraduate lead for an initiative funded by a grant through the National Science Foundation to curate the macrolepidoptera holdings and database specimens dissected by John G. Franclemont. In my time at the CUIC, we curated over 6000 species and two families (Geometridae and Notodontidae). The curation workflow I set in place is still ongoing as the rest of the macrolepidoptera are in the process of being curated.&nbsp;</p>
     <p>During my time in the CUIC I also facilitated the filming of a video promoting the CUIC that was filmed by Johnny Chen:</p>
