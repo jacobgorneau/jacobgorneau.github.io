@@ -42,3 +42,15 @@ Hey! My name is Jacob Gorneau and I am a masterâ€™s student in Lauren Espositoâ€
     </tr>
   </table>
 </div>
+
+<div id="instafeed"></div>
+
+<script type="text/javascript">
+    var feed = new Instafeed({
+      accessToken: '${{secret.INSTA_TOKEN}}'
+    });
+    feed.run();
+</script>
+
+
+
