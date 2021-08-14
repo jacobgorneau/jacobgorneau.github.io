@@ -43,6 +43,8 @@ Hey! My name is Jacob Gorneau and I am a masterâ€™s student in Lauren Espositoâ€
   </table>
 </div>
 
+<script type="text/javascript" src="instafeed.min.js"></script>
+
 <div id="instafeed"></div>
 
 <script type="text/javascript">
