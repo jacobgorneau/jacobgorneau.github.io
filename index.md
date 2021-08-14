@@ -22,9 +22,9 @@ Hey! My name is Jacob Gorneau and I am a masterâ€™s student in Lauren Espositoâ€
 
 var feed = new Instafeed({
             get: 'user',
-            userId: '{{secret.INSTA_NUMBER}}',
+            userId: '${{secret.INSTA_NUMBER}}',
             template: '<a href="{{link}}"><img class="insta-image" src="{{image}}" /></a>',
-            accessToken: '{{secret.INSTA_TOKEN}}'
+            accessToken: '${{secret.INSTA_TOKEN}}'
         });
         feed.run();
 </script>
