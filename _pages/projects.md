@@ -3,7 +3,7 @@ permalink: /projects/
 title: "Projects"
 ---
 <section class="page__content e-content" itemprop="text">
-    <p>Beyond research, I have been involved in a variety of biodiversity-related projects promoting the conservation of arthropods through a combination of museum curation, species monitoring efforts, and scientific communication.</p>
+    <p>Beyond research, I have been involved in a variety of biodiversity-related projects promoting the conservation of arthropods through the lens of making museum collections more accessible, assisting with species monitoring efforts, and engaging in community-oriented scientific communication.</p>
     <p><strong><em>Current Projects</em></strong></p>
     <p><strong>California Academy of Sciences</strong></p>
     <p>I am currently working on pinning a variety of butterfly and moth (Lepidoptera) specimens from Madagascar that were intercepted by customs. These are being prepared in a variety of standard and nonstandard ways for an exhibit that will be on the public floor in Spring 2022.</p>
