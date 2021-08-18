@@ -3,4 +3,4 @@ permalink: /cv/
 title: "Curriculum Vitae"
 ---
 
-ta
+Coming soon! This website is still under construction, so thank you for your patience. :)
