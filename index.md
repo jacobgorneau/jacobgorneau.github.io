@@ -5,9 +5,7 @@ author_profile: true
 layout: single
 ---
 
-Hey! My name is Jacob Gorneau and I am a master’s student in Lauren Esposito’s lab at the California Academy of Sciences. I received my B.S. in Entomology in May 2020 from Cornell University. Cornell has provided with me the wonderful opportunity to receive a broad education in basic and applied entomology in the classroom and lab work relevant to my fields of interest.v
-
-#add inat widget
+I'm currently a master's student at the California Academy of Sciences working on arachnids. I graduated with my B.S. in Entomology at Cornell in 2020. I'm incredibly passionate about all arthropods, but my previous and current work centers on moths and arachnids in the context of museum-based biodiversity work. I'm also incredibly passionate about outreach and have been involved in several projects involving communicating science and preparing scientific displays. Thank you for your patience as I get this site up and running!
 
 <script type="text/javascript" src="instafeed.js"></script>
 
