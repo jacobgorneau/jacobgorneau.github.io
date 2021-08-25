@@ -82,6 +82,9 @@ author:
 
 footer:
   links:
+    - label: "iNaturalist"
+      icon: "assets/images/inaturalist.svg"
+      url: "https://www.inaturalist.org/people/jacobgorneau"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/jacobgorneau"
