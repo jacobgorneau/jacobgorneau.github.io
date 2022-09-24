@@ -5,12 +5,12 @@ title: "Projects"
 <section class="page__content e-content" itemprop="text">
     <p>Beyond research, I have been involved in a variety of biodiversity-related projects promoting the conservation of arthropods through the lens of making museum collections more accessible, assisting with species monitoring efforts, and engaging in community-oriented scientific communication.</p>
     <p><strong><em>Current Projects</em></strong></p>
-    <p><strong>California Academy of Sciences</strong></p>
-    <p>I am currently working on pinning a variety of butterfly and moth (Lepidoptera) specimens from Madagascar that were intercepted by customs. These are being prepared in a variety of standard and nonstandard ways for the Hidden Wonders: Inside the Academy's Collections exhibit, which debuted in May 2022.</p>
     <p><strong>National Moth Week</strong></p>
     <p><a href="https://nationalmothweek.org/">National Moth Week</a> is a global citizen science project founded in 2011 by Liti Haramaty and David Moskowitz seeking to promote the aesthetic beauty, environmental significance, and biodiversity of moths. In 2013, I became a team member of National Moth Week and have aided in decision-making and strategy for the organization as well as coordinate efforts between some of our community science partners such as <a href="https://www.projectnoah.org/">Project Noah</a> and <a href="https://www.inaturalist.org">iNaturalist</a>. This involves maintaining and creating projects on these platforms for members to submit their observations to.</p>
     <p><html><img src="/assets/images/nmw_logo.png" alt="National Moth Week logo with male Io moth (Automeris io) as part of logo"></html></p>
     <p><strong><em>Past Projects</em></strong></p>
+    <p><strong>California Academy of Sciences</strong></p>
+    <p>I pinned a variety of butterfly and moth (Lepidoptera) specimens from Madagascar that were intercepted by customs. I also prepared some specimens of the Western forest scorpion, <i>Uroctonus mordax</i>. These are being prepared in a variety of standard and nonstandard ways for the Hidden Wonders: Inside the Academy's Collections exhibit, which debuted in May 2022.</p>
     <p><strong>KQED: Scorpions Are Predators With a Sensitive Side<br></strong></p>
     <p>With my advisor Dr. Lauren Esposito, I consulted on a video about the sensory structures present on scorpions for KQED. The video highlights that while scorpions have earned a reputation as fierce predators, this is all due to the incredible and delicate sensory structures they have.&nbsp;</p>
     <p><iframe src="https://www.youtube.com/embed/3jtm9BdnE1U?&wmode=opaque&rel=0" allowfullscreen="" width="640" height="360" frameborder="0"></iframe></p>
