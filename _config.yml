@@ -59,7 +59,7 @@ plugins:
 author:
   name   : "Jacob A. Gorneau"
   avatar : "/assets/images/bio-photo.jpeg"
-  bio    : "I'm a research assistant at the California Academy of Sciences passionate about arthropod diversity, evolution, and outreach."
+  bio    : "I'm a graduate student at the California Academy of Sciences and UC Berkeley passionate about arthropod diversity, evolution, and outreach."
   links:
     - label: "iNaturalist"
       icon: "assets/images/inaturalist.svg"
